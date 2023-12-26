@@ -1,0 +1,38 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.dap.core",
+    "lazyvim.plugins.extras.dap.nlua",
+    "lazyvim.plugins.extras.lang.docker",
+    "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.yaml",
+    "lazyvim.plugins.extras.test.core",
+    "lazyvim.plugins.extras.util.project",
+    "plugins.extras.coding.autopairs",
+    "plugins.extras.coding.dap",
+    "plugins.extras.coding.dial",
+    "plugins.extras.coding.load-vscode-snippets",
+    "plugins.extras.editor.git-blame",
+    "plugins.extras.editor.git-conflict",
+    "plugins.extras.editor.scope",
+    "plugins.extras.editor.undo-mode",
+    "plugins.extras.editor.vim-visual-multi",
+    "plugins.extras.lang.html_css",
+    "plugins.extras.lang.lua",
+    "plugins.extras.lang.php",
+    "plugins.extras.lang.sql",
+    "plugins.extras.lang.vue",
+    "plugins.extras.ui.dashboard",
+    "plugins.extras.util.bookmarks",
+    "plugins.extras.util.diffview",
+    "plugins.extras.util.hop",
+    "plugins.extras.util.orgmode",
+    "plugins.extras.util.scrollview",
+    "plugins.extras.util.telekasten"
+  ],
+  "news": {
+    "NEWS.md": "2191",
+    "doc/news.txt": "14318"
+  },
+  "version": 2
+}
